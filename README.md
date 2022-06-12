@@ -38,9 +38,12 @@
   This is in part with the fact that December averages are not far off from June. Even with the near 4 degree difference, the consistent temp within December can 
   provide ideal conditions for customers to visit the business. Even with the concerns of colder temps, there is a more consitent chance that those few days that may 
   occur can easily be made up.
+ 
   My second query with the data was focused on the stations and the temps that were recorded within both months. This allows for a more focused look into the specific 
   areas and provides detailed information. 
+  
   ![image](https://user-images.githubusercontent.com/101299252/173253110-d4feff37-9e50-40f4-a9b6-8edf31965e63.png)
+  
   With this query it shows that ideally for the average beach goer, June temps show ideal beach conditions for the average beach consumer. When compared to December,
   even with the colder temps, surfers are more likley to be the dempgraphic that would be the most active. This comparison of consumers could also create the direction 
   that the shop would want to take in terms of marketing out. 
