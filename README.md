@@ -9,14 +9,19 @@
   # June Data
   When it comes to the weather patterns for June it is shown below through the table that is provided:
   ![image](https://user-images.githubusercontent.com/101299252/173252502-e8522d0a-05d7-49d2-84d3-f622d99d3a1c.png)
-  Furthermore, a graph was plotted in order to show a visualization of the temperature trends
-  ![image](https://user-images.githubusercontent.com/101299252/173252548-2384c489-d351-43a3-8f1d-4816f0fd496c.png)
+ 
+ Furthermore, a graph was plotted in order to show a visualization of the temperature trends
+ 
+ ![image](https://user-images.githubusercontent.com/101299252/173252548-2384c489-d351-43a3-8f1d-4816f0fd496c.png)
 
   # December Data
   Listed below is a table that was created to show the weather data of December:
-  ![image](https://user-images.githubusercontent.com/101299252/173252590-cb16d316-ff99-4e0c-be4d-df7889d60203.png)
-  Also listed is the graph illustrating the same data and frequency:
-  ![image](https://user-images.githubusercontent.com/101299252/173252628-e2622d88-bb84-4eab-8964-a86f5537ce71.png)
+ 
+ ![image](https://user-images.githubusercontent.com/101299252/173252590-cb16d316-ff99-4e0c-be4d-df7889d60203.png)
+ 
+ Also listed is the graph illustrating the same data and frequency:
+ 
+ ![image](https://user-images.githubusercontent.com/101299252/173252628-e2622d88-bb84-4eab-8964-a86f5537ce71.png)
 
   # Overall Differences
   -When comparing both months the data shows that there is about a 3 degree difference in average temperatures. This may not seem like a big change in both, however
