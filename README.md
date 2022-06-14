@@ -26,8 +26,10 @@
   # Overall Differences
   -When comparing both months the data shows that there is about a 3 degree difference in average temperatures. This may not seem like a big change in both, however
   about 50% of the time in June the temp has shown to be about 75 degrees versus in December where the temperature shows to be at 71 degrees. 
+  
   -In the month of December, the graph illustrates that the overall average temp is more consistent sitting at 74 degrees versus the frequencies in June that show almost 
   a curve where it can vary from low to high 70s.
+  
   -Within the month of June even though temperatures may vary, the differences in the colder temps are a 12 degree difference which highlights the time of year and 
   can be a factor that plays into operating hours within the business.
   ![image](https://user-images.githubusercontent.com/101299252/173252891-e6a5d1ac-2314-4f0f-b8cb-91ac619c19ad.png)
